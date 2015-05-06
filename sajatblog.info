@@ -3,3 +3,5 @@ core = 7.x
 dependencies[] = block
 dependencies[] = dblog
 dependencies[] = blog_entry
+dependencies[] = tanarurkerem_ckeditor
+
