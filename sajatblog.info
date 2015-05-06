@@ -1,0 +1,5 @@
+name = Saját Blog
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = blog_entry
