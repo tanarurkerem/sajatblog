@@ -7,46 +7,12 @@ projects[drupal][version] = "7.34"
 ; Modules
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[sajatblog][download][type] = ""
-projects[sajatblog][download][url] = ""
-projects[sajatblog][type] = "module"
+projects[sajatblog][download][type] = "git"
+projects[sajatblog][download][url] = "git@github.com:tanarurkerem/sajatblog.git"
+projects[sajatblog][type] = "profile"
 
 projects[features][version] = "2.3"
 
-; Themes
-projects[bootstrap][version] = "3.0"
 
-projects[zen][version] = "5.5"
 
-; Modules
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-projects[articles][download][type] = ""
-projects[articles][download][url] = ""
-projects[articles][type] = "module"
-
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-projects[blog_entry][download][type] = ""
-projects[blog_entry][download][url] = ""
-projects[blog_entry][type] = "module"
-
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-projects[proba][download][type] = ""
-projects[proba][download][url] = ""
-projects[proba][type] = "module"
-
-; Themes
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-projects[masiksmink][download][type] = ""
-projects[masiksmink][download][url] = ""
-projects[masiksmink][type] = "theme"
-
-; Please fill the following out. Type may be one of get, git, bzr or svn,
-; and url is the url of the download.
-projects[smink][download][type] = ""
-projects[smink][download][url] = ""
-projects[smink][type] = "theme"
 
