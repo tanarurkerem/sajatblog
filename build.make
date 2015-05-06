@@ -17,6 +17,10 @@ projects[tanarurkerem_ckeditor][download][type] = "git"
 projects[tanarurkerem_ckeditor][download][url] = "git@github.com:tanarurkerem/tanarurkerem_ckeditor.git"
 projects[tanarurkerem_ckeditor][type] = "module"
 
+projects[tanarurkerem_calendar][download][type] = "git"
+projects[tanarurkerem_calendar][download][url] = "git@github.com:tanarurkerem/tanarurkerem_calendar.git"
+projects[tanarurkerem_calendar][type] = "module"
 
 
+  
 

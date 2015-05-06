@@ -2,6 +2,7 @@ name = Saját Blog
 core = 7.x
 dependencies[] = block
 dependencies[] = dblog
-dependencies[] = blog_entry
+;dependencies[] = blog_entry
 dependencies[] = tanarurkerem_ckeditor
+dependencies[] = tanarurkerem_calendar
 
