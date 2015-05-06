@@ -11,7 +11,11 @@ projects[sajatblog][download][type] = "git"
 projects[sajatblog][download][url] = "git@github.com:tanarurkerem/sajatblog.git"
 projects[sajatblog][type] = "profile"
 
-projects[features][version] = "2.3"
+projects[features][version] = "2.4"
+
+projects[tanarurkerem_ckeditor][download][type] = "git"
+projects[tanarurkerem_ckeditor][download][url] = "git@github.com:tanarurkerem/tanarurkerem_ckeditor.git"
+projects[tanarurkerem_ckeditor][type] = "module"
 
 
 
