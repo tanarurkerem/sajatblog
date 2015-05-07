@@ -5,4 +5,5 @@ dependencies[] = dblog
 ;dependencies[] = blog_entry
 dependencies[] = tanarurkerem_ckeditor
 dependencies[] = tanarurkerem_calendar
+dependencies[] = tanarurkerem_gallery
 

@@ -21,6 +21,6 @@ projects[tanarurkerem_calendar][download][type] = "git"
 projects[tanarurkerem_calendar][download][url] = "git@github.com:tanarurkerem/tanarurkerem_calendar.git"
 projects[tanarurkerem_calendar][type] = "module"
 
-
-  
-
+projects[tanarurkerem_gallery][download][type] = "git"
+projects[tanarurkerem_gallery][download][url] = "git@github.com:tanarurkerem/tanarurkerem_gallery.git"
+projects[tanarurkerem_gallery][type] = "module"
